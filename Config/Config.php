@@ -1,6 +1,6 @@
 <?php
 //define("BASE_URL", "localhost/Tienda-virtual/");
-const BASE_URL = "http://localhost/Tienda-virtual/";
+const BASE_URL = "http://localhost/FrameworkMVC-Plantilla/";
 
 //Zona horaria
 date_default_timezone_set('America/Bogota');
